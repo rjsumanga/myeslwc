@@ -1,0 +1,12 @@
+.es-pill{
+    display: inline-block;
+    padding: .25rem;
+    margin: .15rem;
+    font-size: .60rem;
+}
+.selected{
+    background-color: #393939;
+}
+.selected .label-color {
+    color: white;
+}

@@ -2614,14 +2614,14 @@
     [
         "c:\\dev\\myeslwc\\force-app\\main\\default\\lwc\\imageTile\\imageTile.css",
         {
-            "state": "u",
             "sourcePath": "c:\\dev\\myeslwc\\force-app\\main\\default\\lwc\\imageTile\\imageTile.css",
             "isDirectory": false,
+            "size": 506,
+            "modifiedTime": 1572928022306,
+            "changeTime": 1572928022306,
+            "contentHash": "cab5d5e39e7958eb5e998cc0b625a5e47742c902",
             "isMetadataFile": false,
-            "size": 537,
-            "modifiedTime": 1572925391973,
-            "changeTime": 1572925391973,
-            "contentHash": "f45ade54153bcf0b3e91b837074d1079070d20ec"
+            "state": "u"
         }
     ],
     [
@@ -2630,7 +2630,7 @@
             "sourcePath": "c:\\dev\\myeslwc\\force-app\\main\\default\\lwc\\imageTile\\imageTile.html",
             "isDirectory": false,
             "size": 254,
-            "modifiedTime": 1572918813131,
+            "modifiedTime": 1572927965506,
             "changeTime": 1572918813131,
             "contentHash": "b27268cf5ded0766d38de87824dbf808436c07bd",
             "isMetadataFile": false,
@@ -2822,14 +2822,14 @@
     [
         "c:\\dev\\myeslwc\\force-app\\main\\default\\flexipages\\Spaces_Designer.flexipage-meta.xml",
         {
+            "state": "u",
             "sourcePath": "c:\\dev\\myeslwc\\force-app\\main\\default\\flexipages\\Spaces_Designer.flexipage-meta.xml",
             "isDirectory": false,
-            "size": 719,
-            "modifiedTime": 1572921492936,
-            "changeTime": 1572921492936,
-            "contentHash": "15899f328d2fc7adcedc8fcfd1ad8ab64e3cb75d",
             "isMetadataFile": true,
-            "state": "u"
+            "size": 839,
+            "modifiedTime": 1572930833116,
+            "changeTime": 1572930833116,
+            "contentHash": "816a9a7c78a75c156b9b8096d0c409e9d4263f48"
         }
     ],
     [
@@ -2848,14 +2848,14 @@
     [
         "c:\\dev\\myeslwc\\force-app\\main\\default\\flows\\spaceDesigner.flow-meta.xml",
         {
+            "state": "u",
             "sourcePath": "c:\\dev\\myeslwc\\force-app\\main\\default\\flows\\spaceDesigner.flow-meta.xml",
             "isDirectory": false,
-            "size": 5598,
-            "modifiedTime": 1572921492974,
-            "changeTime": 1572921492974,
-            "contentHash": "ef420dda2f286fe416e4b870a5ee374cd899eaba",
             "isMetadataFile": true,
-            "state": "u"
+            "size": 5599,
+            "modifiedTime": 1572930833127,
+            "changeTime": 1572930833127,
+            "contentHash": "719d929996ce3bd31e10f959ff51aefc8fdb00a6"
         }
     ],
     [

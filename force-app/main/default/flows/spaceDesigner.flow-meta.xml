@@ -134,7 +134,7 @@
             <targetReference>spaceDesigner</targetReference>
         </connector>
     </start>
-    <status>Draft</status>
+    <status>Active</status>
     <variables>
         <name>varfinishOnRecord</name>
         <dataType>Boolean</dataType>
